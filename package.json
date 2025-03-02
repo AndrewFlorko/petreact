@@ -1,0 +1,12 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "pet project with react",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo start",
+    "test": "echo test"
+  },
+  "author": "Andrew Florko",
+  "license": "ISC"
+}
